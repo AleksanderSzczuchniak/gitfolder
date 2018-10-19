@@ -1,4 +1,3 @@
 "duże zmiany"
-
-"hello world"
+" jest spoko"
 
